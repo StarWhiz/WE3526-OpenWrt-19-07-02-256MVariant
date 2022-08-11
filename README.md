@@ -1,3 +1,11 @@
+# Update 2022.08.10
+The official firmware works for the 256MB ram variant now!
+
+https://downloads.openwrt.org/releases/21.02.3/targets/ramips/mt7621/
+
+Look for "zbtlink_zbt-we3526-squashfs-sysupgrade.bin"
+
+
 # WE3526-OpenWrt-19-07-02-256MVariant
 The current stable release (19.07.02) for WE3526 is only for the 512MB Variant. For the 256MB Variant the stable release will create a soft brick.
 
